@@ -1,0 +1,559 @@
+﻿nivel_territorial_codigo;nivel_territorial_nome;territorio_codigo;territorio_nome;ano_codigo;ano_nome;variavel_codigo;variavel_nome;unidade;valor
+N1;Brasil;1;Brasil;2022;2022;93;População residente;Pessoas;203080756
+N3;Unidade da Federação;23;Ceará;2022;2022;93;População residente;Pessoas;8794957
+N6;Município;2300101;Abaiara - CE;2022;2022;93;População residente;Pessoas;10038
+N6;Município;2300150;Acarape - CE;2022;2022;93;População residente;Pessoas;14027
+N6;Município;2300200;Acaraú - CE;2022;2022;93;População residente;Pessoas;65264
+N6;Município;2300309;Acopiara - CE;2022;2022;93;População residente;Pessoas;44962
+N6;Município;2300408;Aiuaba - CE;2022;2022;93;População residente;Pessoas;14076
+N6;Município;2300507;Alcântaras - CE;2022;2022;93;População residente;Pessoas;11369
+N6;Município;2300606;Altaneira - CE;2022;2022;93;População residente;Pessoas;6782
+N6;Município;2300705;Alto Santo - CE;2022;2022;93;População residente;Pessoas;14155
+N6;Município;2300754;Amontada - CE;2022;2022;93;População residente;Pessoas;42156
+N6;Município;2300804;Antonina do Norte - CE;2022;2022;93;População residente;Pessoas;7245
+N6;Município;2300903;Apuiarés - CE;2022;2022;93;População residente;Pessoas;12928
+N6;Município;2301000;Aquiraz - CE;2022;2022;93;População residente;Pessoas;80645
+N6;Município;2301109;Aracati - CE;2022;2022;93;População residente;Pessoas;75113
+N6;Município;2301208;Aracoiaba - CE;2022;2022;93;População residente;Pessoas;25553
+N6;Município;2301257;Ararendá - CE;2022;2022;93;População residente;Pessoas;11096
+N6;Município;2301307;Araripe - CE;2022;2022;93;População residente;Pessoas;19783
+N6;Município;2301406;Aratuba - CE;2022;2022;93;População residente;Pessoas;11224
+N6;Município;2301505;Arneiroz - CE;2022;2022;93;População residente;Pessoas;7429
+N6;Município;2301604;Assaré - CE;2022;2022;93;População residente;Pessoas;21697
+N6;Município;2301703;Aurora - CE;2022;2022;93;População residente;Pessoas;23714
+N6;Município;2301802;Baixio - CE;2022;2022;93;População residente;Pessoas;5704
+N6;Município;2301851;Banabuiú - CE;2022;2022;93;População residente;Pessoas;17195
+N6;Município;2301901;Barbalha - CE;2022;2022;93;População residente;Pessoas;75033
+N6;Município;2301950;Barreira - CE;2022;2022;93;População residente;Pessoas;22392
+N6;Município;2302008;Barro - CE;2022;2022;93;População residente;Pessoas;19381
+N6;Município;2302057;Barroquinha - CE;2022;2022;93;População residente;Pessoas;14567
+N6;Município;2302107;Baturité - CE;2022;2022;93;População residente;Pessoas;35218
+N6;Município;2302206;Beberibe - CE;2022;2022;93;População residente;Pessoas;53114
+N6;Município;2302305;Bela Cruz - CE;2022;2022;93;População residente;Pessoas;32775
+N6;Município;2302404;Boa Viagem - CE;2022;2022;93;População residente;Pessoas;50411
+N6;Município;2302503;Brejo Santo - CE;2022;2022;93;População residente;Pessoas;51090
+N6;Município;2302602;Camocim - CE;2022;2022;93;População residente;Pessoas;62326
+N6;Município;2302701;Campos Sales - CE;2022;2022;93;População residente;Pessoas;25135
+N6;Município;2302800;Canindé - CE;2022;2022;93;População residente;Pessoas;74174
+N6;Município;2302909;Capistrano - CE;2022;2022;93;População residente;Pessoas;17254
+N6;Município;2303006;Caridade - CE;2022;2022;93;População residente;Pessoas;16377
+N6;Município;2303105;Cariré - CE;2022;2022;93;População residente;Pessoas;17632
+N6;Município;2303204;Caririaçu - CE;2022;2022;93;População residente;Pessoas;26320
+N6;Município;2303303;Cariús - CE;2022;2022;93;População residente;Pessoas;17015
+N6;Município;2303402;Carnaubal - CE;2022;2022;93;População residente;Pessoas;17210
+N6;Município;2303501;Cascavel - CE;2022;2022;93;População residente;Pessoas;72720
+N6;Município;2303600;Catarina - CE;2022;2022;93;População residente;Pessoas;10243
+N6;Município;2303659;Catunda - CE;2022;2022;93;População residente;Pessoas;10444
+N6;Município;2303709;Caucaia - CE;2022;2022;93;População residente;Pessoas;355679
+N6;Município;2303808;Cedro - CE;2022;2022;93;População residente;Pessoas;22344
+N6;Município;2303907;Chaval - CE;2022;2022;93;População residente;Pessoas;12462
+N6;Município;2303931;Choró - CE;2022;2022;93;População residente;Pessoas;12113
+N6;Município;2303956;Chorozinho - CE;2022;2022;93;População residente;Pessoas;20163
+N6;Município;2304004;Coreaú - CE;2022;2022;93;População residente;Pessoas;20953
+N6;Município;2304103;Crateús - CE;2022;2022;93;População residente;Pessoas;76390
+N6;Município;2304202;Crato - CE;2022;2022;93;População residente;Pessoas;131050
+N6;Município;2304236;Croatá - CE;2022;2022;93;População residente;Pessoas;17481
+N6;Município;2304251;Cruz - CE;2022;2022;93;População residente;Pessoas;29761
+N6;Município;2304269;Deputado Irapuan Pinheiro - CE;2022;2022;93;População residente;Pessoas;8932
+N6;Município;2304277;Ereré - CE;2022;2022;93;População residente;Pessoas;6474
+N6;Município;2304285;Eusébio - CE;2022;2022;93;População residente;Pessoas;74170
+N6;Município;2304301;Farias Brito - CE;2022;2022;93;População residente;Pessoas;18217
+N6;Município;2304350;Forquilha - CE;2022;2022;93;População residente;Pessoas;24173
+N6;Município;2304400;Fortaleza - CE;2022;2022;93;População residente;Pessoas;2428708
+N6;Município;2304459;Fortim - CE;2022;2022;93;População residente;Pessoas;17294
+N6;Município;2304509;Frecheirinha - CE;2022;2022;93;População residente;Pessoas;15657
+N6;Município;2304608;General Sampaio - CE;2022;2022;93;População residente;Pessoas;6734
+N6;Município;2304657;Graça - CE;2022;2022;93;População residente;Pessoas;13801
+N6;Município;2304707;Granja - CE;2022;2022;93;População residente;Pessoas;53344
+N6;Município;2304806;Granjeiro - CE;2022;2022;93;População residente;Pessoas;4841
+N6;Município;2304905;Groaíras - CE;2022;2022;93;População residente;Pessoas;10910
+N6;Município;2304954;Guaiúba - CE;2022;2022;93;População residente;Pessoas;24325
+N6;Município;2305001;Guaraciaba do Norte - CE;2022;2022;93;População residente;Pessoas;42053
+N6;Município;2305100;Guaramiranga - CE;2022;2022;93;População residente;Pessoas;5654
+N6;Município;2305209;Hidrolândia - CE;2022;2022;93;População residente;Pessoas;17855
+N6;Município;2305233;Horizonte - CE;2022;2022;93;População residente;Pessoas;74755
+N6;Município;2305266;Ibaretama - CE;2022;2022;93;População residente;Pessoas;11956
+N6;Município;2305308;Ibiapina - CE;2022;2022;93;População residente;Pessoas;23965
+N6;Município;2305332;Ibicuitinga - CE;2022;2022;93;População residente;Pessoas;11611
+N6;Município;2305357;Icapuí - CE;2022;2022;93;População residente;Pessoas;21433
+N6;Município;2305407;Icó - CE;2022;2022;93;População residente;Pessoas;62642
+N6;Município;2305506;Iguatu - CE;2022;2022;93;População residente;Pessoas;98064
+N6;Município;2305605;Independência - CE;2022;2022;93;População residente;Pessoas;24024
+N6;Município;2305654;Ipaporanga - CE;2022;2022;93;População residente;Pessoas;11575
+N6;Município;2305704;Ipaumirim - CE;2022;2022;93;População residente;Pessoas;12083
+N6;Município;2305803;Ipu - CE;2022;2022;93;População residente;Pessoas;41081
+N6;Município;2305902;Ipueiras - CE;2022;2022;93;População residente;Pessoas;36798
+N6;Município;2306009;Iracema - CE;2022;2022;93;População residente;Pessoas;14001
+N6;Município;2306108;Irauçuba - CE;2022;2022;93;População residente;Pessoas;23915
+N6;Município;2306207;Itaiçaba - CE;2022;2022;93;População residente;Pessoas;7536
+N6;Município;2306256;Itaitinga - CE;2022;2022;93;População residente;Pessoas;64650
+N6;Município;2306306;Itapajé - CE;2022;2022;93;População residente;Pessoas;46426
+N6;Município;2306405;Itapipoca - CE;2022;2022;93;População residente;Pessoas;131123
+N6;Município;2306504;Itapiúna - CE;2022;2022;93;População residente;Pessoas;17841
+N6;Município;2306553;Itarema - CE;2022;2022;93;População residente;Pessoas;42957
+N6;Município;2306603;Itatira - CE;2022;2022;93;População residente;Pessoas;20424
+N6;Município;2306702;Jaguaretama - CE;2022;2022;93;População residente;Pessoas;17232
+N6;Município;2306801;Jaguaribara - CE;2022;2022;93;População residente;Pessoas;10356
+N6;Município;2306900;Jaguaribe - CE;2022;2022;93;População residente;Pessoas;33726
+N6;Município;2307007;Jaguaruana - CE;2022;2022;93;População residente;Pessoas;31701
+N6;Município;2307106;Jardim - CE;2022;2022;93;População residente;Pessoas;27411
+N6;Município;2307205;Jati - CE;2022;2022;93;População residente;Pessoas;7861
+N6;Município;2307254;Jijoca de Jericoacoara - CE;2022;2022;93;População residente;Pessoas;25555
+N6;Município;2307304;Juazeiro do Norte - CE;2022;2022;93;População residente;Pessoas;286120
+N6;Município;2307403;Jucás - CE;2022;2022;93;População residente;Pessoas;23922
+N6;Município;2307502;Lavras da Mangabeira - CE;2022;2022;93;População residente;Pessoas;30802
+N6;Município;2307601;Limoeiro do Norte - CE;2022;2022;93;População residente;Pessoas;59560
+N6;Município;2307635;Madalena - CE;2022;2022;93;População residente;Pessoas;16896
+N6;Município;2307650;Maracanaú - CE;2022;2022;93;População residente;Pessoas;234509
+N6;Município;2307700;Maranguape - CE;2022;2022;93;População residente;Pessoas;105093
+N6;Município;2307809;Marco - CE;2022;2022;93;População residente;Pessoas;25799
+N6;Município;2307908;Martinópole - CE;2022;2022;93;População residente;Pessoas;10846
+N6;Município;2308005;Massapê - CE;2022;2022;93;População residente;Pessoas;37697
+N6;Município;2308104;Mauriti - CE;2022;2022;93;População residente;Pessoas;45561
+N6;Município;2308203;Meruoca - CE;2022;2022;93;População residente;Pessoas;15157
+N6;Município;2308302;Milagres - CE;2022;2022;93;População residente;Pessoas;25900
+N6;Município;2308351;Milhã - CE;2022;2022;93;População residente;Pessoas;14123
+N6;Município;2308377;Miraíma - CE;2022;2022;93;População residente;Pessoas;14196
+N6;Município;2308401;Missão Velha - CE;2022;2022;93;População residente;Pessoas;36822
+N6;Município;2308500;Mombaça - CE;2022;2022;93;População residente;Pessoas;37735
+N6;Município;2308609;Monsenhor Tabosa - CE;2022;2022;93;População residente;Pessoas;17149
+N6;Município;2308708;Morada Nova - CE;2022;2022;93;População residente;Pessoas;61443
+N6;Município;2308807;Moraújo - CE;2022;2022;93;População residente;Pessoas;8254
+N6;Município;2308906;Morrinhos - CE;2022;2022;93;População residente;Pessoas;22753
+N6;Município;2309003;Mucambo - CE;2022;2022;93;População residente;Pessoas;13666
+N6;Município;2309102;Mulungu - CE;2022;2022;93;População residente;Pessoas;10569
+N6;Município;2309201;Nova Olinda - CE;2022;2022;93;População residente;Pessoas;15399
+N6;Município;2309300;Nova Russas - CE;2022;2022;93;População residente;Pessoas;30699
+N6;Município;2309409;Novo Oriente - CE;2022;2022;93;População residente;Pessoas;27545
+N6;Município;2309458;Ocara - CE;2022;2022;93;População residente;Pessoas;24493
+N6;Município;2309508;Orós - CE;2022;2022;93;População residente;Pessoas;19675
+N6;Município;2309607;Pacajus - CE;2022;2022;93;População residente;Pessoas;70983
+N6;Município;2309706;Pacatuba - CE;2022;2022;93;População residente;Pessoas;81524
+N6;Município;2309805;Pacoti - CE;2022;2022;93;População residente;Pessoas;11186
+N6;Município;2309904;Pacujá - CE;2022;2022;93;População residente;Pessoas;6175
+N6;Município;2310001;Palhano - CE;2022;2022;93;População residente;Pessoas;9346
+N6;Município;2310100;Palmácia - CE;2022;2022;93;População residente;Pessoas;10242
+N6;Município;2310209;Paracuru - CE;2022;2022;93;População residente;Pessoas;38980
+N6;Município;2310258;Paraipaba - CE;2022;2022;93;População residente;Pessoas;32216
+N6;Município;2310308;Parambu - CE;2022;2022;93;População residente;Pessoas;31445
+N6;Município;2310407;Paramoti - CE;2022;2022;93;População residente;Pessoas;10384
+N6;Município;2310506;Pedra Branca - CE;2022;2022;93;População residente;Pessoas;40187
+N6;Município;2310605;Penaforte - CE;2022;2022;93;População residente;Pessoas;8972
+N6;Município;2310704;Pentecoste - CE;2022;2022;93;População residente;Pessoas;37813
+N6;Município;2310803;Pereiro - CE;2022;2022;93;População residente;Pessoas;15274
+N6;Município;2310852;Pindoretama - CE;2022;2022;93;População residente;Pessoas;23391
+N6;Município;2310902;Piquet Carneiro - CE;2022;2022;93;População residente;Pessoas;16616
+N6;Município;2310951;Pires Ferreira - CE;2022;2022;93;População residente;Pessoas;10606
+N6;Município;2311009;Poranga - CE;2022;2022;93;População residente;Pessoas;12065
+N6;Município;2311108;Porteiras - CE;2022;2022;93;População residente;Pessoas;17050
+N6;Município;2311207;Potengi - CE;2022;2022;93;População residente;Pessoas;8833
+N6;Município;2311231;Potiretama - CE;2022;2022;93;População residente;Pessoas;5974
+N6;Município;2311264;Quiterianópolis - CE;2022;2022;93;População residente;Pessoas;20213
+N6;Município;2311306;Quixadá - CE;2022;2022;93;População residente;Pessoas;84168
+N6;Município;2311355;Quixelô - CE;2022;2022;93;População residente;Pessoas;15910
+N6;Município;2311405;Quixeramobim - CE;2022;2022;93;População residente;Pessoas;82177
+N6;Município;2311504;Quixeré - CE;2022;2022;93;População residente;Pessoas;20874
+N6;Município;2311603;Redenção - CE;2022;2022;93;População residente;Pessoas;27214
+N6;Município;2311702;Reriutaba - CE;2022;2022;93;População residente;Pessoas;18606
+N6;Município;2311801;Russas - CE;2022;2022;93;População residente;Pessoas;72928
+N6;Município;2311900;Saboeiro - CE;2022;2022;93;População residente;Pessoas;13854
+N6;Município;2311959;Salitre - CE;2022;2022;93;População residente;Pessoas;16633
+N6;Município;2312007;Santana do Acaraú - CE;2022;2022;93;População residente;Pessoas;30628
+N6;Município;2312106;Santana do Cariri - CE;2022;2022;93;População residente;Pessoas;16954
+N6;Município;2312205;Santa Quitéria - CE;2022;2022;93;População residente;Pessoas;40183
+N6;Município;2312304;São Benedito - CE;2022;2022;93;População residente;Pessoas;47640
+N6;Município;2312403;São Gonçalo do Amarante - CE;2022;2022;93;População residente;Pessoas;54143
+N6;Município;2312502;São João do Jaguaribe - CE;2022;2022;93;População residente;Pessoas;5855
+N6;Município;2312601;São Luís do Curu - CE;2022;2022;93;População residente;Pessoas;10822
+N6;Município;2312700;Senador Pompeu - CE;2022;2022;93;População residente;Pessoas;24266
+N6;Município;2312809;Senador Sá - CE;2022;2022;93;População residente;Pessoas;7262
+N6;Município;2312908;Sobral - CE;2022;2022;93;População residente;Pessoas;203023
+N6;Município;2313005;Solonópole - CE;2022;2022;93;População residente;Pessoas;18179
+N6;Município;2313104;Tabuleiro do Norte - CE;2022;2022;93;População residente;Pessoas;30652
+N6;Município;2313203;Tamboril - CE;2022;2022;93;População residente;Pessoas;24815
+N6;Município;2313252;Tarrafas - CE;2022;2022;93;População residente;Pessoas;7529
+N6;Município;2313302;Tauá - CE;2022;2022;93;População residente;Pessoas;61227
+N6;Município;2313351;Tejuçuoca - CE;2022;2022;93;População residente;Pessoas;17154
+N6;Município;2313401;Tianguá - CE;2022;2022;93;População residente;Pessoas;81506
+N6;Município;2313500;Trairi - CE;2022;2022;93;População residente;Pessoas;58415
+N6;Município;2313559;Tururu - CE;2022;2022;93;População residente;Pessoas;15412
+N6;Município;2313609;Ubajara - CE;2022;2022;93;População residente;Pessoas;32767
+N6;Município;2313708;Umari - CE;2022;2022;93;População residente;Pessoas;6871
+N6;Município;2313757;Umirim - CE;2022;2022;93;População residente;Pessoas;17470
+N6;Município;2313807;Uruburetama - CE;2022;2022;93;População residente;Pessoas;20189
+N6;Município;2313906;Uruoca - CE;2022;2022;93;População residente;Pessoas;13746
+N6;Município;2313955;Varjota - CE;2022;2022;93;População residente;Pessoas;18105
+N6;Município;2314003;Várzea Alegre - CE;2022;2022;93;População residente;Pessoas;38984
+N6;Município;2314102;Viçosa do Ceará - CE;2022;2022;93;População residente;Pessoas;59712
+N1;Brasil;1;Brasil;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;12324957
+N3;Unidade da Federação;23;Ceará;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;343313
+N6;Município;2300101;Abaiara - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-418
+N6;Município;2300150;Acarape - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;366
+N6;Município;2300200;Acaraú - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;8074
+N6;Município;2300309;Acopiara - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-6309
+N6;Município;2300408;Aiuaba - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-2127
+N6;Município;2300507;Alcântaras - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;492
+N6;Município;2300606;Altaneira - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-74
+N6;Município;2300705;Alto Santo - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-1095
+N6;Município;2300754;Amontada - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;2984
+N6;Município;2300804;Antonina do Norte - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;261
+N6;Município;2300903;Apuiarés - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-733
+N6;Município;2301000;Aquiraz - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;7993
+N6;Município;2301109;Aracati - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;5936
+N6;Município;2301208;Aracoiaba - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;215
+N6;Município;2301257;Ararendá - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;595
+N6;Município;2301307;Araripe - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-896
+N6;Município;2301406;Aratuba - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-792
+N6;Município;2301505;Arneiroz - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-221
+N6;Município;2301604;Assaré - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-701
+N6;Município;2301703;Aurora - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-852
+N6;Município;2301802;Baixio - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-322
+N6;Município;2301851;Banabuiú - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-107
+N6;Município;2301901;Barbalha - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;19510
+N6;Município;2301950;Barreira - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;1739
+N6;Município;2302008;Barro - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-2139
+N6;Município;2302057;Barroquinha - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;91
+N6;Município;2302107;Baturité - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;1916
+N6;Município;2302206;Beberibe - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;4019
+N6;Município;2302305;Bela Cruz - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;2030
+N6;Município;2302404;Boa Viagem - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-2010
+N6;Município;2302503;Brejo Santo - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;5901
+N6;Município;2302602;Camocim - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;2168
+N6;Município;2302701;Campos Sales - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-1343
+N6;Município;2302800;Canindé - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;946
+N6;Município;2302909;Capistrano - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;291
+N6;Município;2303006;Caridade - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-3579
+N6;Município;2303105;Cariré - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-355
+N6;Município;2303204;Caririaçu - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;84
+N6;Município;2303303;Cariús - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-1305
+N6;Município;2303402;Carnaubal - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;673
+N6;Município;2303501;Cascavel - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;6823
+N6;Município;2303600;Catarina - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-8462
+N6;Município;2303659;Catunda - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;616
+N6;Município;2303709;Caucaia - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;36042
+N6;Município;2303808;Cedro - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-2448
+N6;Município;2303907;Chaval - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-153
+N6;Município;2303931;Choró - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-740
+N6;Município;2303956;Chorozinho - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;410
+N6;Município;2304004;Coreaú - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-785
+N6;Município;2304103;Crateús - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;3573
+N6;Município;2304202;Crato - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;9790
+N6;Município;2304236;Croatá - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;415
+N6;Município;2304251;Cruz - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;6778
+N6;Município;2304269;Deputado Irapuan Pinheiro - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-165
+N6;Município;2304277;Ereré - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-328
+N6;Município;2304285;Eusébio - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;28137
+N6;Município;2304301;Farias Brito - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-1400
+N6;Município;2304350;Forquilha - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;2559
+N6;Município;2304400;Fortaleza - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-31004
+N6;Município;2304459;Fortim - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;2503
+N6;Município;2304509;Frecheirinha - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;2430
+N6;Município;2304608;General Sampaio - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-46
+N6;Município;2304657;Graça - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-241
+N6;Município;2304707;Granja - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;1627
+N6;Município;2304806;Granjeiro - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-184
+N6;Município;2304905;Groaíras - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;763
+N6;Município;2304954;Guaiúba - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;821
+N6;Município;2305001;Guaraciaba do Norte - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;3505
+N6;Município;2305100;Guaramiranga - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;10
+N6;Município;2305209;Hidrolândia - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-1041
+N6;Município;2305233;Horizonte - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;19568
+N6;Município;2305266;Ibaretama - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-983
+N6;Município;2305308;Ibiapina - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;239
+N6;Município;2305332;Ibicuitinga - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;276
+N6;Município;2305357;Icapuí - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;3041
+N6;Município;2305407;Icó - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-2715
+N6;Município;2305506;Iguatu - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;2821
+N6;Município;2305605;Independência - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-1549
+N6;Município;2305654;Ipaporanga - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;228
+N6;Município;2305704;Ipaumirim - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;74
+N6;Município;2305803;Ipu - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;789
+N6;Município;2305902;Ipueiras - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-1078
+N6;Município;2306009;Iracema - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;241
+N6;Município;2306108;Irauçuba - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;1591
+N6;Município;2306207;Itaiçaba - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;220
+N6;Município;2306256;Itaitinga - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;30548
+N6;Município;2306306;Itapajé - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-1644
+N6;Município;2306405;Itapipoca - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;15047
+N6;Município;2306504;Itapiúna - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-891
+N6;Município;2306553;Itarema - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;5504
+N6;Município;2306603;Itatira - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;908
+N6;Município;2306702;Jaguaretama - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-702
+N6;Município;2306801;Jaguaribara - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;3
+N6;Município;2306900;Jaguaribe - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-683
+N6;Município;2307007;Jaguaruana - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-158
+N6;Município;2307106;Jardim - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;837
+N6;Município;2307205;Jati - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;92
+N6;Município;2307254;Jijoca de Jericoacoara - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;8597
+N6;Município;2307304;Juazeiro do Norte - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;36025
+N6;Município;2307403;Jucás - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;115
+N6;Município;2307502;Lavras da Mangabeira - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-230
+N6;Município;2307601;Limoeiro do Norte - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;4380
+N6;Município;2307635;Madalena - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-835
+N6;Município;2307650;Maracanaú - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;25411
+N6;Município;2307700;Maranguape - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-8912
+N6;Município;2307809;Marco - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;1101
+N6;Município;2307908;Martinópole - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;632
+N6;Município;2308005;Massapê - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;2507
+N6;Município;2308104;Mauriti - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;429
+N6;Município;2308203;Meruoca - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;1558
+N6;Município;2308302;Milagres - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-1518
+N6;Município;2308351;Milhã - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;1108
+N6;Município;2308377;Miraíma - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;1330
+N6;Município;2308401;Missão Velha - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;2924
+N6;Município;2308500;Mombaça - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-4640
+N6;Município;2308609;Monsenhor Tabosa - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;396
+N6;Município;2308708;Morada Nova - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-598
+N6;Município;2308807;Moraújo - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;204
+N6;Município;2308906;Morrinhos - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;2030
+N6;Município;2309003;Mucambo - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-472
+N6;Município;2309102;Mulungu - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;1035
+N6;Município;2309201;Nova Olinda - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;1213
+N6;Município;2309300;Nova Russas - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-248
+N6;Município;2309409;Novo Oriente - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;110
+N6;Município;2309458;Ocara - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;473
+N6;Município;2309508;Orós - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-1714
+N6;Município;2309607;Pacajus - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;9145
+N6;Município;2309706;Pacatuba - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;9943
+N6;Município;2309805;Pacoti - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-594
+N6;Município;2309904;Pacujá - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-78
+N6;Município;2310001;Palhano - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;480
+N6;Município;2310100;Palmácia - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-1752
+N6;Município;2310209;Paracuru - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;6670
+N6;Município;2310258;Paraipaba - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;2367
+N6;Município;2310308;Parambu - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-46
+N6;Município;2310407;Paramoti - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-1379
+N6;Município;2310506;Pedra Branca - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-1746
+N6;Município;2310605;Penaforte - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;673
+N6;Município;2310704;Pentecoste - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;2162
+N6;Município;2310803;Pereiro - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-483
+N6;Município;2310852;Pindoretama - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;5057
+N6;Município;2310902;Piquet Carneiro - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;1147
+N6;Município;2310951;Pires Ferreira - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;343
+N6;Município;2311009;Poranga - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;73
+N6;Município;2311108;Porteiras - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;2002
+N6;Município;2311207;Potengi - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-1440
+N6;Município;2311231;Potiretama - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-152
+N6;Município;2311264;Quiterianópolis - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;292
+N6;Município;2311306;Quixadá - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;3560
+N6;Município;2311355;Quixelô - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-229
+N6;Município;2311405;Quixeramobim - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;9017
+N6;Município;2311504;Quixeré - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;473
+N6;Município;2311603;Redenção - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-408
+N6;Município;2311702;Reriutaba - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-497
+N6;Município;2311801;Russas - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;2520
+N6;Município;2311900;Saboeiro - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-1938
+N6;Município;2311959;Salitre - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;1146
+N6;Município;2312007;Santana do Acaraú - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;656
+N6;Município;2312106;Santana do Cariri - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-274
+N6;Município;2312205;Santa Quitéria - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-2580
+N6;Município;2312304;São Benedito - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;2765
+N6;Município;2312403;São Gonçalo do Amarante - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;10750
+N6;Município;2312502;São João do Jaguaribe - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-2045
+N6;Município;2312601;São Luís do Curu - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-1525
+N6;Município;2312700;Senador Pompeu - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-1084
+N6;Município;2312809;Senador Sá - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;410
+N6;Município;2312908;Sobral - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;14346
+N6;Município;2313005;Solonópole - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;514
+N6;Município;2313104;Tabuleiro do Norte - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;443
+N6;Município;2313203;Tamboril - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-1159
+N6;Município;2313252;Tarrafas - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-1068
+N6;Município;2313302;Tauá - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;5378
+N6;Município;2313351;Tejuçuoca - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;18
+N6;Município;2313401;Tianguá - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;12423
+N6;Município;2313500;Trairi - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;6993
+N6;Município;2313559;Tururu - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;917
+N6;Município;2313609;Ubajara - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;980
+N6;Município;2313708;Umari - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-674
+N6;Município;2313757;Umirim - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;-1271
+N6;Município;2313807;Uruburetama - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;486
+N6;Município;2313906;Uruoca - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;863
+N6;Município;2313955;Varjota - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;512
+N6;Município;2314003;Várzea Alegre - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;708
+N6;Município;2314102;Viçosa do Ceará - CE;2022;2022;5936;Variação absoluta da população residente 2010 compatibilizada;Pessoas;4757
+N1;Brasil;1;Brasil;2022;2022;10605;Taxa de crescimento geométrico;%;0.52
+N3;Unidade da Federação;23;Ceará;2022;2022;10605;Taxa de crescimento geométrico;%;0.33
+N6;Município;2300101;Abaiara - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.34
+N6;Município;2300150;Acarape - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.22
+N6;Município;2300200;Acaraú - CE;2022;2022;10605;Taxa de crescimento geométrico;%;1.11
+N6;Município;2300309;Acopiara - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-1.09
+N6;Município;2300408;Aiuaba - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-1.17
+N6;Município;2300507;Alcântaras - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.37
+N6;Município;2300606;Altaneira - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.09
+N6;Município;2300705;Alto Santo - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.62
+N6;Município;2300754;Amontada - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.61
+N6;Município;2300804;Antonina do Norte - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.31
+N6;Município;2300903;Apuiarés - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.46
+N6;Município;2301000;Aquiraz - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.87
+N6;Município;2301109;Aracati - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.69
+N6;Município;2301208;Aracoiaba - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.07
+N6;Município;2301257;Ararendá - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.46
+N6;Município;2301307;Araripe - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.37
+N6;Município;2301406;Aratuba - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.57
+N6;Município;2301505;Arneiroz - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.24
+N6;Município;2301604;Assaré - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.26
+N6;Município;2301703;Aurora - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.29
+N6;Município;2301802;Baixio - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.46
+N6;Município;2301851;Banabuiú - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.05
+N6;Município;2301901;Barbalha - CE;2022;2022;10605;Taxa de crescimento geométrico;%;2.54
+N6;Município;2301950;Barreira - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.68
+N6;Município;2302008;Barro - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.87
+N6;Município;2302057;Barroquinha - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.05
+N6;Município;2302107;Baturité - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.47
+N6;Município;2302206;Beberibe - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.66
+N6;Município;2302305;Bela Cruz - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.53
+N6;Município;2302404;Boa Viagem - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.33
+N6;Município;2302503;Brejo Santo - CE;2022;2022;10605;Taxa de crescimento geométrico;%;1.03
+N6;Município;2302602;Camocim - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.30
+N6;Município;2302701;Campos Sales - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.43
+N6;Município;2302800;Canindé - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.11
+N6;Município;2302909;Capistrano - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.14
+N6;Município;2303006;Caridade - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-1.63
+N6;Município;2303105;Cariré - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.17
+N6;Município;2303204;Caririaçu - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.03
+N6;Município;2303303;Cariús - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.61
+N6;Município;2303402;Carnaubal - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.33
+N6;Município;2303501;Cascavel - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.82
+N6;Município;2303600;Catarina - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-4.89
+N6;Município;2303659;Catunda - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.51
+N6;Município;2303709;Caucaia - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.89
+N6;Município;2303808;Cedro - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.86
+N6;Município;2303907;Chaval - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.10
+N6;Município;2303931;Choró - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.49
+N6;Município;2303956;Chorozinho - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.17
+N6;Município;2304004;Coreaú - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.31
+N6;Município;2304103;Crateús - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.40
+N6;Município;2304202;Crato - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.65
+N6;Município;2304236;Croatá - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.20
+N6;Município;2304251;Cruz - CE;2022;2022;10605;Taxa de crescimento geométrico;%;2.18
+N6;Município;2304269;Deputado Irapuan Pinheiro - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.15
+N6;Município;2304277;Ereré - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.41
+N6;Município;2304285;Eusébio - CE;2022;2022;10605;Taxa de crescimento geométrico;%;4.06
+N6;Município;2304301;Farias Brito - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.62
+N6;Município;2304350;Forquilha - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.94
+N6;Município;2304400;Fortaleza - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.11
+N6;Município;2304459;Fortim - CE;2022;2022;10605;Taxa de crescimento geométrico;%;1.31
+N6;Município;2304509;Frecheirinha - CE;2022;2022;10605;Taxa de crescimento geométrico;%;1.42
+N6;Município;2304608;General Sampaio - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.06
+N6;Município;2304657;Graça - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.14
+N6;Município;2304707;Granja - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.26
+N6;Município;2304806;Granjeiro - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.31
+N6;Município;2304905;Groaíras - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.61
+N6;Município;2304954;Guaiúba - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.29
+N6;Município;2305001;Guaraciaba do Norte - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.73
+N6;Município;2305100;Guaramiranga - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.01
+N6;Município;2305209;Hidrolândia - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.47
+N6;Município;2305233;Horizonte - CE;2022;2022;10605;Taxa de crescimento geométrico;%;2.56
+N6;Município;2305266;Ibaretama - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.66
+N6;Município;2305308;Ibiapina - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.08
+N6;Município;2305332;Ibicuitinga - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.20
+N6;Município;2305357;Icapuí - CE;2022;2022;10605;Taxa de crescimento geométrico;%;1.28
+N6;Município;2305407;Icó - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.35
+N6;Município;2305506;Iguatu - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.24
+N6;Município;2305605;Independência - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.52
+N6;Município;2305654;Ipaporanga - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.17
+N6;Município;2305704;Ipaumirim - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.05
+N6;Município;2305803;Ipu - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.16
+N6;Município;2305902;Ipueiras - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.24
+N6;Município;2306009;Iracema - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.14
+N6;Município;2306108;Irauçuba - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.58
+N6;Município;2306207;Itaiçaba - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.25
+N6;Município;2306256;Itaitinga - CE;2022;2022;10605;Taxa de crescimento geométrico;%;5.47
+N6;Município;2306306;Itapajé - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.29
+N6;Município;2306405;Itapipoca - CE;2022;2022;10605;Taxa de crescimento geométrico;%;1.02
+N6;Município;2306504;Itapiúna - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.41
+N6;Município;2306553;Itarema - CE;2022;2022;10605;Taxa de crescimento geométrico;%;1.15
+N6;Município;2306603;Itatira - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.38
+N6;Município;2306702;Jaguaretama - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.33
+N6;Município;2306801;Jaguaribara - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.00
+N6;Município;2306900;Jaguaribe - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.17
+N6;Município;2307007;Jaguaruana - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.04
+N6;Município;2307106;Jardim - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.26
+N6;Município;2307205;Jati - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.10
+N6;Município;2307254;Jijoca de Jericoacoara - CE;2022;2022;10605;Taxa de crescimento geométrico;%;3.48
+N6;Município;2307304;Juazeiro do Norte - CE;2022;2022;10605;Taxa de crescimento geométrico;%;1.13
+N6;Município;2307403;Jucás - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.04
+N6;Município;2307502;Lavras da Mangabeira - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.06
+N6;Município;2307601;Limoeiro do Norte - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.64
+N6;Município;2307635;Madalena - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.40
+N6;Município;2307650;Maracanaú - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.96
+N6;Município;2307700;Maranguape - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.68
+N6;Município;2307809;Marco - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.36
+N6;Município;2307908;Martinópole - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.50
+N6;Município;2308005;Massapê - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.58
+N6;Município;2308104;Mauriti - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.08
+N6;Município;2308203;Meruoca - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.91
+N6;Município;2308302;Milagres - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.47
+N6;Município;2308351;Milhã - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.68
+N6;Município;2308377;Miraíma - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.82
+N6;Município;2308401;Missão Velha - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.69
+N6;Município;2308500;Mombaça - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.96
+N6;Município;2308609;Monsenhor Tabosa - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.19
+N6;Município;2308708;Morada Nova - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.08
+N6;Município;2308807;Moraújo - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.21
+N6;Município;2308906;Morrinhos - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.78
+N6;Município;2309003;Mucambo - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.28
+N6;Município;2309102;Mulungu - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.86
+N6;Município;2309201;Nova Olinda - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.69
+N6;Município;2309300;Nova Russas - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.07
+N6;Município;2309409;Novo Oriente - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.03
+N6;Município;2309458;Ocara - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.16
+N6;Município;2309508;Orós - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.69
+N6;Município;2309607;Pacajus - CE;2022;2022;10605;Taxa de crescimento geométrico;%;1.16
+N6;Município;2309706;Pacatuba - CE;2022;2022;10605;Taxa de crescimento geométrico;%;1.09
+N6;Município;2309805;Pacoti - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.43
+N6;Município;2309904;Pacujá - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.10
+N6;Município;2310001;Palhano - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.44
+N6;Município;2310100;Palmácia - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-1.31
+N6;Município;2310209;Paracuru - CE;2022;2022;10605;Taxa de crescimento geométrico;%;1.58
+N6;Município;2310258;Paraipaba - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.64
+N6;Município;2310308;Parambu - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.01
+N6;Município;2310407;Paramoti - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-1.03
+N6;Município;2310506;Pedra Branca - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.35
+N6;Município;2310605;Penaforte - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.65
+N6;Município;2310704;Pentecoste - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.49
+N6;Município;2310803;Pereiro - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.26
+N6;Município;2310852;Pindoretama - CE;2022;2022;10605;Taxa de crescimento geométrico;%;2.05
+N6;Município;2310902;Piquet Carneiro - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.60
+N6;Município;2310951;Pires Ferreira - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.27
+N6;Município;2311009;Poranga - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.05
+N6;Município;2311108;Porteiras - CE;2022;2022;10605;Taxa de crescimento geométrico;%;1.05
+N6;Município;2311207;Potengi - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-1.25
+N6;Município;2311231;Potiretama - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.21
+N6;Município;2311264;Quiterianópolis - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.12
+N6;Município;2311306;Quixadá - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.36
+N6;Município;2311355;Quixelô - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.12
+N6;Município;2311405;Quixeramobim - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.97
+N6;Município;2311504;Quixeré - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.19
+N6;Município;2311603;Redenção - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.12
+N6;Município;2311702;Reriutaba - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.22
+N6;Município;2311801;Russas - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.29
+N6;Município;2311900;Saboeiro - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-1.09
+N6;Município;2311959;Salitre - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.60
+N6;Município;2312007;Santana do Acaraú - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.18
+N6;Município;2312106;Santana do Cariri - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.13
+N6;Município;2312205;Santa Quitéria - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.52
+N6;Município;2312304;São Benedito - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.50
+N6;Município;2312403;São Gonçalo do Amarante - CE;2022;2022;10605;Taxa de crescimento geométrico;%;1.86
+N6;Município;2312502;São João do Jaguaribe - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-2.47
+N6;Município;2312601;São Luís do Curu - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-1.09
+N6;Município;2312700;Senador Pompeu - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.36
+N6;Município;2312809;Senador Sá - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.49
+N6;Município;2312908;Sobral - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.61
+N6;Município;2313005;Solonópole - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.24
+N6;Município;2313104;Tabuleiro do Norte - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.12
+N6;Município;2313203;Tamboril - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.38
+N6;Município;2313252;Tarrafas - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-1.10
+N6;Município;2313302;Tauá - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.77
+N6;Município;2313351;Tejuçuoca - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.01
+N6;Município;2313401;Tianguá - CE;2022;2022;10605;Taxa de crescimento geométrico;%;1.39
+N6;Município;2313500;Trairi - CE;2022;2022;10605;Taxa de crescimento geométrico;%;1.07
+N6;Município;2313559;Tururu - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.51
+N6;Município;2313609;Ubajara - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.25
+N6;Município;2313708;Umari - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.78
+N6;Município;2313757;Umirim - CE;2022;2022;10605;Taxa de crescimento geométrico;%;-0.58
+N6;Município;2313807;Uruburetama - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.20
+N6;Município;2313906;Uruoca - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.54
+N6;Município;2313955;Varjota - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.24
+N6;Município;2314003;Várzea Alegre - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.15
+N6;Município;2314102;Viçosa do Ceará - CE;2022;2022;10605;Taxa de crescimento geométrico;%;0.69
