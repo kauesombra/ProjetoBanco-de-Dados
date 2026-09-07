@@ -1,6 +1,8 @@
 pandas>=2.0
 numpy>=1.24
 geopandas>=0.14
+folium>=0.15
+mapclassify>=2.6
 shapely>=2.0
 matplotlib>=3.7
 plotly>=5.18
